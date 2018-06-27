@@ -12,7 +12,7 @@
 
 
     Perhaps 3D piecharts are not the best way to display your data?
-    Maybe 3D chards should never be used?
+    Maybe 3D pie charts should never be used?
 
     Many times it is hard to beat a well designed table?
 
